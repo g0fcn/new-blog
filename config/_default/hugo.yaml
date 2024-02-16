@@ -1,5 +1,5 @@
-baseURL: https://www.jobcher.com/
-title: 打工人日志
+baseURL: https://g0fcn.github.io
+title: 每日果粉圈
 # Copyright, the {year} is the placeholder of this year.
 copyright: "Copyright © 2022-{year} All Rights Reserved."
 defaultContentLanguage: zh-hans
