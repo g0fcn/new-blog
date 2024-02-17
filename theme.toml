@@ -1,9 +1,9 @@
 name = "HB Starter Theme Template"
 license = "MIT"
-licenselink = "https://g0fcn.guthub.io"
+licenselink = "https://pic.g0f.cn/"
 description = "keep simple, keep stupid"
-homepage = "https://g0fcn.guthub.io"
-demosite = "https://g0fcn.guthub.io/"
+homepage = "https://pic.g0f.cn/"
+demosite = "https://pic.g0f.cn/"
 tags = [
     "archive",
     "blog",
@@ -20,8 +20,8 @@ tags = [
 ]
 features = ["search", "flexible", "modular"]
 [author]
-name = "jobcher"
-homepage = "https://g0fcn.guthub.io/"
+name = "naive"
+homepage = "hhttps://pic.g0f.cn/"
 
 # 网站地图配置
 [sitemap]
