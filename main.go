@@ -65,7 +65,7 @@ func main() {
 	tran_webp()
 
 	// 写入 Markdown 文件头部
-	_, err = file.WriteString("---\ntitle: " + today + " 每日果粉圈\ndate: " + today + "\ndraft: false\nauthor: 'jobcher'\nfeaturedImage: '/images/wallpaper/" + today + ".jpg.webp'\nfeaturedImagePreview: '/images/wallpaper/" + today + ".jpg.webp'\nimages: ['/images/wallpaper/" + today + ".jpg.webp']\ntags: ['果粉圈']\ncategories: ['果粉圈']\nseries: ['果粉圈']\n---\n\n")
+	_, err = file.WriteString("---\ntitle: " + today + " 打工人日报\ndate: " + today + "\ndraft: false\nauthor: 'jobcher'\nfeaturedImage: '/images/wallpaper/" + today + ".jpg.webp'\nfeaturedImagePreview: '/images/wallpaper/" + today + ".jpg.webp'\nimages: ['/images/wallpaper/" + today + ".jpg.webp']\ntags: ['日报']\ncategories: ['日报']\nseries: ['日报']\n---\n\n")
 	if err != nil {
 		log.Fatal(err)
 	}
